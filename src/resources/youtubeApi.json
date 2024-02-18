@@ -1,0 +1,326 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Zl2cPaXs2848x69pkHwbBsPgwe8",
+  "nextPageToken": "CAkQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 229,
+    "resultsPerPage": 9
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hyvde4eS9i8dA5niS0grW3luRi0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tcwtq9NrVd4"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-22T17:00:10Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 15 Plus Battery | One More | Apple",
+        "description": "Looooong lasting battery for relentless moments. Relax, it's iPhone 15 Plus. Learn more about iPhone 15 Plus at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tcwtq9NrVd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tcwtq9NrVd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tcwtq9NrVd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-22T17:00:10Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JHv0JDV91WQrjWwFvevpX8b25a4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U-7ibjo1xHc"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T17:00:04Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 15 Check In | New Driver | Apple",
+        "description": "Check In automatically notifies your friend or family member when you've reached your destination. Relax, it's iPhone. Learn more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-7ibjo1xHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-7ibjo1xHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-7ibjo1xHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-20T17:00:04Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "97IPuIqZEh7c4Ll0rYkbepzBgSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uiFINWtwSXE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T15:51:19Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "MAKING APPLE VISION PRO",
+        "description": "A peek behind the scenes to see how we make Apple Vision Pro, our first spatial computer. Available for pre-order. Learn more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uiFINWtwSXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uiFINWtwSXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uiFINWtwSXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T15:51:19Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j7zT0Ao2kGQWWryR6dIQC2oblYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "luFGI13Mv8o"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T15:41:12Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Making Apple Vision Pro",
+        "description": "A peek behind the scenes to see how we make Apple Vision Pro, our first spatial computer. Available for pre-order. Learn More: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/luFGI13Mv8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/luFGI13Mv8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/luFGI13Mv8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T15:41:12Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "InV6rBNrHD2jLevR9VB3-vgh_Uw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vb0dG-2huJE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T15:35:11Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "A Guided Tour of Apple Vision Pro",
+        "description": "Apple Vision Pro is here. Experience what it's like to use Apple's first ever spatial computer. 00:00 Introduction 00:44 Navigation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vb0dG-2huJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vb0dG-2huJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vb0dG-2huJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T15:35:11Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sc_92XpxDbc_2i6CbrAMNfSc0R8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aqTIB_q40bo"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T01:00:38Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Get Ready | Apple Vision Pro",
+        "description": "Get ready for Apple Vision Pro. Available February 2. Learn More: https://apple.co/AppleVisionPro Audio Descriptions: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aqTIB_q40bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aqTIB_q40bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aqTIB_q40bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T01:00:38Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aWTjS5QU7x2ryVXlEed_9obI_Kk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "07cKD8GK__c"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-24T17:49:42Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 15 Plus | Miss You | Apple",
+        "description": "Big screen. Big battery life. iPhone 15 Plus is here. Dynamic Island. New 48MP Main camera. 2x Telephoto. Next-generation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/07cKD8GK__c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/07cKD8GK__c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/07cKD8GK__c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-24T17:49:42Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HUjQ5rgR29iV-o6zhSeALsNqn_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OFP0c6zBVHs"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-24T17:00:20Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 15 Plus | Miss You | Apple #Shorts",
+        "description": "Big screen. Big battery life. iPhone 15 Plus is here. Dynamic Island. New 48MP Main camera. 2x Telephoto. Next-generation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OFP0c6zBVHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OFP0c6zBVHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OFP0c6zBVHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-24T17:00:20Z"
+      }
+    },
+
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_R2YDP1NHT1em9svOjNz2ya2AJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "92LTVxAJcgk"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-20T17:00:42Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "How to set up Apple Pay. #Shorts",
+        "description": "Learn more on http://apple.com/apple-pay Audio descriptions: https://youtube.com/shorts/VIEOaJxVE-4 #ApplePay.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92LTVxAJcgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92LTVxAJcgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92LTVxAJcgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-20T17:00:42Z"
+      }
+    }
+  ]
+}
